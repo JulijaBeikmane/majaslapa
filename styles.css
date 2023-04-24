@@ -1,0 +1,68 @@
+h1, h3 {
+    color:blue;
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-decoration: blink;
+    margin-left: 400px;
+    border: 2px solid rgb(50, 75, 20);
+    border: groove 50px;
+    
+}
+h2 {
+    color:rgb(170, 170, 255);
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-decoration: blink;
+    margin-left: 400px;
+    border: groove 50px
+
+}
+
+body {
+    font-family: 'Rufina', serif;
+}
+
+
+p {
+    font-style: italic;
+    font-family: cursive;
+    font-size: 16pt;
+    font-weight: bold;
+    
+}
+
+.rindkopa {
+    color:rgb(143, 112, 214);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.slipraksts {
+    font-style: italic;
+}
+
+#izcelts {
+    font-weight: bold;
+
+}
+
+.kaste {
+    width: 60%;
+    margin-left: auto;
+   margin-right: auto; 
+   text-align: justify;
+}
+
+.kvadrats{
+    width: 200px;
+    height: 200px; 
+    background-color: aquamarine;
+}
+
+.blakus{
+    float: right;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
